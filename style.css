@@ -52,9 +52,8 @@ button{
 }
 .copyright{
     color: rgb(176,238,230);
-    position: fixed;
     bottom: 0;
-    width: 30%;
+    width: 60%;
     font-size: 14px:
     text-align: center;
     padding: 10px;
