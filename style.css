@@ -51,11 +51,11 @@ button{
     color: #6dee0a;
 }
 .copyright{
-    color: #94969f;
+    color: rgb(176,238,230);
     position: fixed;
     bottom: 0;
-    width: 9cm;
+    width: 100px;
     font-size: 14px:
-    text-align: centre;
+    text-align: center;
     padding: 10px;
 }
