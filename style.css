@@ -1,6 +1,5 @@
 *{
-    margin: 0;
-    padding: 0;
+    
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
@@ -53,6 +52,10 @@ button{
 }
 .copyright{
     color: #94969f;
-    text-align: end;
-    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 9cm;
+    font-size: 14px:
+    text-align: centre;
+    padding: 10px;
 }
